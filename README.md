@@ -1,2 +1,3 @@
 # JavaScript-and-DOM-Manipulation
-Intro to Javascript Homework
+
+Use of Javascript and DOM Manipulation with an example of alien sights dataset
